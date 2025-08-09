@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,registration_date
+1,John,Doe,john.doe@email.com,2023-01-15
+2,Jane,Smith,jane.smith@invalid,2023-02-20
+3,Bob,Johnson,bob.johnson@gmail.com,2023-03-10
+4,Alice,Brown,,2023-04-05
+5,Charlie,Wilson,charlie@wilson.com,2023-05-12
+6,Diana,Taylor,diana.taylor@yahoo.com,2023-06-18
+7,Edward,Davis,invalid-email,2023-07-22
+8,Fiona,Miller,fiona.miller@hotmail.com,2023-08-30
+9,George,Anderson,george.anderson@company.co.uk,2023-09-14
+10,Helen,White,helen@white,2023-10-25

@@ -1,0 +1,6 @@
+pandas==2.1.4
+sqlite3
+apache-airflow==2.8.1
+email-validator==2.1.0
+pathlib2==2.3.7
+python-dateutil==2.8.2

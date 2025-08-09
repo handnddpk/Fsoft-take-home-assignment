@@ -1,0 +1,10 @@
+ETL Pipeline Summary - 2025-08-09 06:33:54.642697
+==================================================
+customers_count: 6
+products_count: 10
+transactions_count: 8
+revenue_records_count: 6
+avg_customer_revenue: 130.06
+max_customer_revenue: 224.97
+min_customer_revenue: 39.99
+total_revenue: 780.39
